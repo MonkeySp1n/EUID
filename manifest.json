@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "EUID",
+  "version": "1.0",
+  "description": "엔트리 작품화면에서 고유아이디를 적용해줍니다.",
+  "icons": {
+    "48": "U_icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://playentry.org/*"],
+      "js": ["script.js"],
+      "world" : "MAIN",
+      "run_at": "document_start"
+    }
+  ]
+}
