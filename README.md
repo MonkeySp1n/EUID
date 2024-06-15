@@ -31,18 +31,6 @@ https://playentry.org/profile/ 뒤 649d781e3d6c74001ae26991 처럼 사용자 고
 마지막으로 좌측에 있는 압축해제된 확장 프로그램을 로드합니다. 를 클릭하고 EUID-main 폴더를 선택해줍니다.<br>
 이렇게 확장프로그램 업로드가 끝났습니다.<br><br>
 
-# 제작자
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Entry MYPAGE-00d674?style=for-the-badge&logo=/e/&logoColor=white"><br>
-<a href='https://playentry.org/profile/649d781e3d6c74001ae26991'>dav1d094<a><br>
-<a href='https://playentry.org/profile/5a5f38f2cb6f99f6b6347479'>6c65657977<a><br>
-공개를 원치않음<br>
-<a href='https://playentry.org/profile/615d31d849e1950333001a9'>lemon_kemon_<a><br><br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white"><br>
-https://github.com/judong1094<br>
-https://github.com/6c65657977<br>
-깃허브 계정 없음<br>
-깃허브 계정 없음<br>
-
 # 참고
 <a href='https://playentry.org/suggestion/646f434581375c00253743a6'>제작의 필요성을 느낀 제안 및 건의</a>
 <br>
