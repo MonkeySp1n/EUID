@@ -15,7 +15,7 @@
 
 # 구동방식
 iframe(작품화면) 상에서 표시되는 아이디를 Do**** 처럼 마스킹된 아이디에서<br>
-https://playentry.org/profile/ 뒤 649d781e3d6c74001ae26991 처럼 사용자 고유 ID를 마스킹된 아이디 대신 넣는 방식.<br><br>
+https://playentry.org/profile/ 뒤 5eb4e5b596464e006313bfbb 처럼 사용자 고유 ID를 마스킹된 아이디 대신 넣는 방식.<br><br>
 
 # 사용법
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/G2Y7znq/chrome-capture.png" alt="chrome-capture" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br>
